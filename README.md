@@ -9,5 +9,6 @@ ROOT
 └── arrays_and_hashing
     ├── TopKFrequentElements.py
     ├── Two_Sum_II.py
+    ├── ValidSudoku.py
     └── longestConsecutive.py
 ```
