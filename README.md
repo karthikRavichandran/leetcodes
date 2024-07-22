@@ -10,6 +10,8 @@ ROOT
     ├── TopKFrequentElements.py
     ├── Two_Sum_II.py
     ├── ValidSudoku.py
+    ├── encode_decode.py [* Not correct]
     ├── groupAnagrams.py
-    └── longestConsecutive.py
+    ├── longestConsecutive.py
+    └── primenumber.py [* Not correct]
 ```
