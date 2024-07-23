@@ -9,11 +9,12 @@ ROOT
 ├── arrays_and_hashing
 │   ├── TopKFrequentElements.py
 │   ├── Two_Sum_II.py
-│   ├── ValidSudoku.py
+│   ├── ValidSudoku.py [[link](https://leetcode.com/problems/valid-sudoku/submissions/1328752523/)]
 │   ├── encode_decode.py
-│   ├── groupAnagrams.py
+│   ├── groupAnagrams.py [[link](https://leetcode.com/problems/group-anagrams/description/)]
 │   ├── longestConsecutive.py
 │   └── primenumber.py
 └── two_pointers
-    └── twoSum.py
+    ├── isPalindrome.py  [[link](https://leetcode.com/problems/valid-palindrome/description/)]
+    └── twoSum.py [[link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)]
 ```
