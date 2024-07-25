@@ -16,5 +16,7 @@ ROOT
 │   └── primenumber.py
 └── two_pointers
     ├── isPalindrome.py  [[link](https://leetcode.com/problems/valid-palindrome/description/)]
+    ├── trap.py [https://leetcode.com/problems/trapping-rain-water/description/]
     └── twoSum.py [[link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)]
+    
 ```
