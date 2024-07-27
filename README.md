@@ -9,11 +9,13 @@ ROOT
 ├── arrays_and_hashing
 │   ├── TopKFrequentElements.py
 │   ├── Two_Sum_II.py
-│   ├── ValidSudoku.py [[link](https://leetcode.com/problems/valid-sudoku/submissions/1328752523/)]
+│   ├── ValidSudoku.py [(https://leetcode.com/problems/valid-sudoku/submissions/1328752523/)]
 │   ├── encode_decode.py
 │   ├── groupAnagrams.py [[link](https://leetcode.com/problems/group-anagrams/description/)]
 │   ├── longestConsecutive.py
 │   └── primenumber.py
+├── stack
+│   └── ValidParentheses.py [https://leetcode.com/problems/valid-parentheses/description/]
 └── two_pointers
     ├── isPalindrome.py  [[link](https://leetcode.com/problems/valid-palindrome/description/)]
     ├── trap.py [https://leetcode.com/problems/trapping-rain-water/description/]
