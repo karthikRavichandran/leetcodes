@@ -18,6 +18,7 @@ ROOT
 ├── stack
 │   └── ValidParentheses.py [https://leetcode.com/problems/valid-parentheses/description/]
 │   └── minStack.py [https://leetcode.com/problems/min-stack/description/]
+│   └── reversePolish.py [https://leetcode.com/problems/evaluate-reverse-polish-notation/description/]
 └── two_pointers
     ├── isPalindrome.py  [(https://leetcode.com/problems/valid-palindrome/description/)]
     ├── trap.py [https://leetcode.com/problems/trapping-rain-water/description/]
