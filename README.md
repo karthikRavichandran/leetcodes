@@ -14,6 +14,7 @@ ROOT
 │   ├── groupAnagrams.py [(https://leetcode.com/problems/group-anagrams/description/)]
 │   ├── longestConsecutive.py
 │   └── primenumber.py 
+│   ├── productExceptSelf.py [https://leetcode.com/problems/product-of-array-except-self/description/]
 │   └── validateAnagram.py [https://leetcode.com/problems/valid-anagram/description/]
 ├── stack
 │   └── ValidParentheses.py [https://leetcode.com/problems/valid-parentheses/description/]
