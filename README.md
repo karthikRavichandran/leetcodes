@@ -18,6 +18,7 @@ ROOT
 │   └── validateAnagram.py [https://leetcode.com/problems/valid-anagram/description/]
 ├── stack
 │   └── ValidParentheses.py [https://leetcode.com/problems/valid-parentheses/description/]
+│   ├── genParentheses.py [https://leetcode.com/problems/generate-parentheses/description/]
 │   └── minStack.py [https://leetcode.com/problems/min-stack/description/]
 │   └── reversePolish.py [https://leetcode.com/problems/evaluate-reverse-polish-notation/description/]
 └── two_pointers
